@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+      "@aws-sdk/client-s3": "^3.306.0",
+      "aws-sdk": "^2.1351.0"
+    }
+  }
